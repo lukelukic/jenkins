@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jenkinsTest", "jenkinsTest\jenkinsTest.csproj", "{B551DED9-6F6B-479A-924C-1588FB65EEEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsApi", "JenkinsApi\JenkinsApi.csproj", "{DFF65BB1-9B30-4CC1-854E-67A045C3F5BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +20,12 @@ Global
 		{B551DED9-6F6B-479A-924C-1588FB65EEEC}.Jenkins|Any CPU.Build.0 = Jenkins|Any CPU
 		{B551DED9-6F6B-479A-924C-1588FB65EEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B551DED9-6F6B-479A-924C-1588FB65EEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF65BB1-9B30-4CC1-854E-67A045C3F5BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF65BB1-9B30-4CC1-854E-67A045C3F5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF65BB1-9B30-4CC1-854E-67A045C3F5BA}.Jenkins|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF65BB1-9B30-4CC1-854E-67A045C3F5BA}.Jenkins|Any CPU.Build.0 = Release|Any CPU
+		{DFF65BB1-9B30-4CC1-854E-67A045C3F5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF65BB1-9B30-4CC1-854E-67A045C3F5BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
